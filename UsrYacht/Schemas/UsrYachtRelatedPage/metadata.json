@@ -1,0 +1,28 @@
+{
+  "MetaData": {
+    "Schema": {
+      "ManagerName": "AddonSchemaManager",
+      "UId": "dc7d5ab4-5070-4d27-8c8e-8d694d1f41c8",
+      "A2": "UsrYachtRelatedPage",
+      "A5": "6f71e54c-1960-40c9-94f6-073fd67699ab",
+      "B1": [],
+      "B2": [],
+      "B3": [],
+      "B6": "5530927f-22ea-e7c9-4ccf-506d3a6c2ed2",
+      "B8": "0.0.0.0",
+      "AD1": "2a05ae3a-e855-40e4-a638-c7995e0710f4",
+      "AD2": "EntitySchemaManager",
+      "AD3": "RelatedPage",
+      "AD5": "3a2d6f51-1bfc-4c17-aacb-b53de4866b7c",
+      "AD4": {
+        "Pages": [
+          {
+            "UId": "a676778c-d2b5-4c9b-aff3-7d5277363684",
+            "PageSchemaUId": "0b83c1bd-488e-445d-8243-5b7107735593",
+            "IsDefault": true
+          }
+        ]
+      }
+    }
+  }
+}
