@@ -14,6 +14,7 @@
 			<Item Name="Columns.UsrPrice.Caption" Value="Price per day, EUR" />
 			<Item Name="Columns.UsrRegCode.Caption" Value="Reg code" />
 			<Item Name="Columns.UsrStatus.Caption" Value="Status" />
+			<Item Name="Columns.UsrTicketPrice.Caption" Value="Ticket price, EUR" />
 		</Items>
 	</Group>
 </Resources>
