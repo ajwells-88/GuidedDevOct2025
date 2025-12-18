@@ -10,6 +10,16 @@
 			<Item Name="LocalizableStrings.addRecord_wwr8imr_caption.Value" Value="Add new" />
 			<Item Name="LocalizableStrings.EmailInput_hdthg8y_caption.Value" Value="Email address" />
 			<Item Name="LocalizableStrings.EmailInput_hdthg8y_label.Value" Value="Manager email" />
+			<Item Name="LocalizableStrings.ExpansionPanel_9ivln9e_title.Value" Value="Yacht rentals" />
+			<Item Name="LocalizableStrings.GridDetailAddBtn_mzye8d5_caption.Value" Value="New" />
+			<Item Name="LocalizableStrings.GridDetailExportDataBtn_cj02h8z_caption.Value" Value="Export to Excel" />
+			<Item Name="LocalizableStrings.GridDetailImportDataBtn_ifzwk3p_caption.Value" Value="Data import" />
+			<Item Name="LocalizableStrings.GridDetailRefreshBtn_5l5v614_caption.Value" Value="Refresh" />
+			<Item Name="LocalizableStrings.GridDetailSearchFilter_5g4mq9w_placeholder.Value" Value="Search" />
+			<Item Name="LocalizableStrings.GridDetailSettingsBtn_lwyqthc_caption.Value" Value="Actions" />
+			<Item Name="LocalizableStrings.MultiSelectCategory_label.Value" Value="Multi-select" />
+			<Item Name="LocalizableStrings.PassengerCountMustBeGreaterThan1.Value" Value="Passenger count must be greater than 1" />
+			<Item Name="LocalizableStrings.PriceMustBeGreaterThan300.Value" Value="Price must be greater than 300 EUR" />
 			<Item Name="LocalizableStrings.PushMeButton_caption.Value" Value="Push me!" />
 		</Items>
 	</Group>
