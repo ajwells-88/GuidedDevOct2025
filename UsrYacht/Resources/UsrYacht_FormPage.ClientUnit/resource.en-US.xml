@@ -8,6 +8,8 @@
 			<Item Name="LocalizableStrings.addRecord_pmhol01_caption.Value" Value="Add new" />
 			<Item Name="LocalizableStrings.addRecord_w0ufrdr_caption.Value" Value="Add new" />
 			<Item Name="LocalizableStrings.addRecord_wwr8imr_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.AutoAddYachtRentalRecordsMenuItem_caption.Value" Value="Auto add Yacht Rental records" />
+			<Item Name="LocalizableStrings.Button_m9z4gfs_caption.Value" Value="Actions" />
 			<Item Name="LocalizableStrings.EmailInput_hdthg8y_caption.Value" Value="Email address" />
 			<Item Name="LocalizableStrings.EmailInput_hdthg8y_label.Value" Value="Manager email" />
 			<Item Name="LocalizableStrings.ExpansionPanel_9ivln9e_title.Value" Value="Yacht rentals" />
@@ -21,6 +23,8 @@
 			<Item Name="LocalizableStrings.PassengerCountMustBeGreaterThan1.Value" Value="Passenger count must be greater than 1" />
 			<Item Name="LocalizableStrings.PriceMustBeGreaterThan300.Value" Value="Price must be greater than 300 EUR" />
 			<Item Name="LocalizableStrings.PushMeButton_caption.Value" Value="Push me!" />
+			<Item Name="LocalizableStrings.RunAvgPriceWebServiceMenuItem_caption.Value" Value="Run calc avg price web service" />
+			<Item Name="LocalizableStrings.RunCalcTicketPriceMenuItem_caption.Value" Value="Start run avg ticket price process" />
 		</Items>
 	</Group>
 </Resources>
